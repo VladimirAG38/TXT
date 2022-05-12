@@ -1,0 +1,4 @@
+Name:Guzaev Vladimir Alexandrovich
+Age:39
+Pets:2
+Salary:100000
